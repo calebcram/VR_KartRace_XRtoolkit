@@ -1,0 +1,64 @@
+newmtl brick
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka brick.png
+map_Kd brick.png
+map_d brick.png
+newmtl grass0
+Ka 0 0 0
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka grass0.png
+map_Kd grass0.png
+map_d grass0.png
+newmtl lambert209
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert209.png
+map_Kd lambert209.png
+map_d lambert209.png
+newmtl lambert211
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert211.png
+map_Kd lambert211.png
+map_d lambert211.png
+newmtl lambert212
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert212.png
+map_Kd lambert212.png
+map_d lambert212.png
+newmtl lambert217
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert217.png
+map_Kd lambert217.png
+map_d lambert217.png
+newmtl line
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka line.png
+map_Kd line.png
+map_d line.png
+newmtl road
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka road.png
+map_Kd road.png
+map_d road.png

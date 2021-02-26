@@ -1,0 +1,16 @@
+newmtl lambert218
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert218.png
+map_Kd lambert218.png
+map_d lambert218.png
+newmtl lambert221
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert221.png
+map_Kd lambert221.png
+map_d lambert221.png

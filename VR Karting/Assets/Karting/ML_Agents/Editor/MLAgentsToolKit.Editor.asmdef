@@ -1,0 +1,18 @@
+{
+    "name": "MLAgentsToolKit.Editor",
+    "references": [
+        "GUID:6ca5b28674f39be418d4c79fcf451ba5",
+        "GUID:5c2b5ba89f9e74e418232e154bc5cc7a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

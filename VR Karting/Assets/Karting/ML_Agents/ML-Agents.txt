@@ -1,0 +1,6 @@
+ML-Agents Beta 0.13.1, https://github.com/Unity-Technologies/ml-agents/tree/0.13.1
+
+Following files removed:
+- Examples
+- Editor/Tests
+- Plugins/ProtoBuffer/runtimes/linux/native/libgrpc_csharp_ext.x86.so
